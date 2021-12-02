@@ -1,3 +1,6 @@
 # ZY-BERT
 
-The code and data could be found at 
+- **TCM Code**  contains the codes for completing syndrome differentiation task using Bert-like language model.
+- **TCM Data Sample** Contains the multiple samples from TCM-SD dataset.
+- **Unlabeled TCM domain corpus** would be uploaded later.
+- Pre-trained ZY-BERT could be downloaded at [here](https://drive.google.com/file/d/1fC9geqeLk5YK9y_O-UjfIKtLeu0Iie8j/view?usp=sharing)
