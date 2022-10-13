@@ -10,7 +10,7 @@ The related paper "TCM-SD: A Benchmark for Probing Syndrome Differentiation via 
 
 **TCM_SD_with_knowledge** Contains the full data! 
 
-You can find more details about the dataset at here (will be update later).
+You can find more details about the dataset at ([here](https://tianchi.aliyun.com/dataset/dataDetail?dataId=139034)).
 
 **TCM Data Sample** Contains the multiple samples from TCM-SD dataset.
 
