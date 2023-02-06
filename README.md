@@ -47,12 +47,12 @@ If you used this in your work, please cite:
 ```
 @inproceedings{mucheng-etal-2022-tcm,
     title = "{TCM}-{SD}: A Benchmark for Probing Syndrome Differentiation via Natural Language Processing",
-    author = "Mucheng, Ren  and
-      Heyan, Huang  and
-      Yuxiang, Zhou  and
-      Qianwen, Cao  and
-      Yuan, Bu  and
-      Yang, Gao",
+    author = "Ren, Mucheng  and
+      Huang, Heyan  and
+      Zhou, Yuxiang  and
+      Cao, Qianwen  and
+      Bu, Yuan  and
+      Gao, Yang",
     booktitle = "Proceedings of the 21st Chinese National Conference on Computational Linguistics",
     month = oct,
     year = "2022",
