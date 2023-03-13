@@ -16,6 +16,10 @@ You can find more details about the dataset at ([here](https://tianchi.aliyun.co
 
 
 
+We uploaded the corpus used for pretraining ZY-BERT, download via ([here](https://www.dropbox.com/s/jrgngr8afqz41oy/tcm_pretrain_corpus_a.rar?dl=0)).
+To be noticed, the current released version does not contains academic papers and journals from CNKI for some reasons(you know why:>). But I would keep updating and enriching the corpus, please keep in mind.
+
+
 The dataset is licensed by [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?spm=5176.12282016.0.0.60246d92uOnf7v)。
 
 ### Model Info. 
