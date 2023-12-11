@@ -38,7 +38,7 @@ Pre-trained ZY-BERT could be downloaded at [here](https://drive.google.com/file/
 
 ### Contact Info.
 
-Email: renm@bit.edu.cn  or rdoctmc@gmail.com
+Email: renm@nuist.edu.cn or rdoctmc@gmail.com
 
 Issue is welcome!
 
